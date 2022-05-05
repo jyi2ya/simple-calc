@@ -17,4 +17,4 @@ $ cargo build --release
 
 ### bugs
 
-too long expressions can cause stack overflow
+too long expressions may cause stack overflow
